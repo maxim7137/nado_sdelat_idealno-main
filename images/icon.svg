@@ -1,0 +1,22 @@
+<svg width="98.000000" height="93.000000" viewBox="0 0 98 93" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip332_2">
+			<rect id="icon" width="98.000000" height="93.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="icon" width="98.000000" height="93.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip332_2)">
+		<path id="Vector" d="M46.5 92C71.62 92 92 71.62 92 46.5C92 21.37 71.62 1 46.5 1C21.37 1 1 21.37 1 46.5C1 71.62 21.37 92 46.5 92Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M46.5 92C21.37 92 1 71.62 1 46.5C1 21.37 21.37 1 46.5 1C71.62 1 92 21.37 92 46.5C92 71.62 71.62 92 46.5 92Z" stroke="#000000" stroke-opacity="1.000000" stroke-width="2.000000"/>
+		<path id="Vector" d="M64 40C64 44.41 62.65 48 61 48C59.34 48 58 44.41 58 40C58 35.58 59.34 32 61 32C62.65 32 64 35.58 64 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M64 40C64 44.41 62.65 48 61 48C59.34 48 58 44.41 58 40C58 35.58 59.34 32 61 32C62.65 32 64 35.58 64 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M64 40C64 44.41 62.65 48 61 48C59.34 48 58 44.41 58 40C58 35.58 59.34 32 61 32C62.65 32 64 35.58 64 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M81 40C81 44.41 79.65 48 78 48C76.34 48 75 44.41 75 40C75 35.58 76.34 32 78 32C79.65 32 81 35.58 81 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M81 40C81 44.41 79.65 48 78 48C76.34 48 75 44.41 75 40C75 35.58 76.34 32 78 32C79.65 32 81 35.58 81 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M81 40C81 44.41 79.65 48 78 48C76.34 48 75 44.41 75 40C75 35.58 76.34 32 78 32C79.65 32 81 35.58 81 40Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M46 67C62 76 81.5 74.5 96 62.5" stroke="#000000" stroke-opacity="1.000000" stroke-width="3.000000" stroke-linecap="round"/>
+	</g>
+</svg>
