@@ -50,6 +50,7 @@ video {
 
 h1 {
   font-family: Raleway;
+  position: relative;
   font-size: 116px;
   font-weight: 800;
   line-height: 136px;
@@ -71,6 +72,7 @@ h1:hover {
 
 h1::after {
   content: "*";
+  position: absolute;
 }
 
 h1::before {
