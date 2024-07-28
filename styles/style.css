@@ -55,12 +55,12 @@ h1 {
   line-height: 136px;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 0.034em;
+  letter-spacing: 0.033em;
   margin: 0 auto;
   padding-top: 60px;
   max-width: 775px;
   z-index: 1;
-  padding-left: 1px;
+  padding-left: 2px;
   /* transition: color 0.5s linear; */
 }
 
@@ -96,7 +96,7 @@ h1::before {
   border-radius: 20px;
   border: 2px solid #000;
   background-color: #fff;
-  box-shadow: 0 14px 0 0 #000;
+  box-shadow: 0 13px 0 0 #000;
   opacity: 0;
   /* transition: opacity 0.3s linear; */
 }
