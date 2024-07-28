@@ -55,16 +55,17 @@ h1 {
   line-height: 136px;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 0.035em;
+  letter-spacing: 0.034em;
   margin: 0 auto;
   padding-top: 60px;
   max-width: 775px;
   z-index: 1;
+  padding-left: 1px;
   /* transition: color 0.5s linear; */
 }
 
 h1 span {
-  padding-left: 15px;
+  padding-left: 16px;
 }
 
 h1:hover {
