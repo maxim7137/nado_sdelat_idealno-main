@@ -28,7 +28,7 @@ body::before {
   transition: opacity 0.5s linear;
 }
 
-body:has(h1:hover)::before {
+body:has(span:hover)::before {
   content: "";
   position: absolute;
   inset: 0;
@@ -63,17 +63,13 @@ h1 {
   transition: color 0.5s linear;
 }
 
-h1:hover {
+h1:has(span:hover) {
   color: rgb(76, 76, 76);
   transition: color 0.5s linear;
   cursor: default;
 }
 
-h1::after {
-  content: "*";
-}
-
-h1::before {
+h1 span::before {
   content: "На самом деле нет.\AВажнее &mdash; научиться ошибаться.";
   white-space: pre;
   position: absolute;
@@ -95,7 +91,7 @@ h1::before {
   transition: opacity 0.3s linear;
 }
 
-h1:hover::before {
+h1 span:hover::before {
   opacity: 1;
   transition: opacity 0.3s linear;
 }
